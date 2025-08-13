@@ -2614,7 +2614,7 @@ label.cust-switch-label input:checked ~ span.cust-switch-slide::before {
  .whatsapp-float {
     position: fixed;
     right: 18px;
-    bottom: 18px;
+    bottom: 40px !important;
     z-index: 9999;
   }
   .whatsapp-float a {
